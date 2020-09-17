@@ -1,0 +1,25 @@
+body{
+	width: 1024px;
+	background: url(../Images/Bg.jpg);
+	margin-left: auto;
+	margin-right: auto;
+}	
+h1{
+	text-align: center;
+	width: 546px; /* Ширина слоя */
+	margin: auto; /* Значение отступов */
+}
+h2{
+	text-align: center;
+	width: 546px; /* Ширина слоя */
+	margin: auto; /* Значение отступов */
+		
+	}
+
+img.leftpic {
+	float: left;
+	margin: 10px;
+}
+h3.experience {
+	clear: left;
+}
