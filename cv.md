@@ -23,3 +23,14 @@ Basic of HTML, CSS, Java Script
 * [love-triangle](https://github.com/Dezman66/love-triangle/blob/master/src/index.js)
 * [quadratic-equation](https://github.com/Dezman66/quadratic-equation/blob/master/src/index.js)
 * [advanced-zeros](https://github.com/Dezman66/advanced-zeros/blob/master/src/index.js)
+
+##Experience
+
+Course 
+1. [Introduction to HTML and Learn CSS" at Codacademy](https://www.codecademy.com/users/dezman669140741567/achievements), 
+1. [Course Java Script at Sololearn](https://www.sololearn.com/Profile/10555664), 
+1. [Tascks at Codewars.com](https://www.codewars.com/users/Dezman66)
+
+##English level
+
+A1 Elementary. I learn english at schooll and universe.
